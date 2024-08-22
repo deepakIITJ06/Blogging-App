@@ -1,0 +1,6 @@
+name = "backend"
+compatibility_date = "2024-08-10"
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZDY2MWFjMmEtNzE0Ni00YTU3LWFkNjMtN2IxZjU3ODViOTZiIiwidGVuYW50X2lkIjoiNWFhZDZjNWE5ZjZiNzI2ZThmMTQzZmVkZjliMDgyMWNiZGNlZmI5MmY0NGMxODAwZTEyMjBiZDY3YzBkM2M0MyIsImludGVybmFsX3NlY3JldCI6ImIzN2Y5YjMxLWUwZTktNGQyZS05NmU4LTk1ZTU5NTJhY2I0YyJ9.PtOc9bjtp8tPMfve_RqDtkWHmaPFB_TZlh9pSQnMQiE"
+JWT_SECRET="deepak-blogging-app"
