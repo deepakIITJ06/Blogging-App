@@ -9,7 +9,7 @@ export const Starting = () => {
                     <nav className="mt-4 flex justify-center flex-col">
                         <ul className="flex space-x-4 pr-4 font-semibold">
                             <li><a href="/signup" className="text-blue-500">Login</a></li>
-                            <li><a href="/home" className="text-blue-500">Home</a></li>
+                            {/* <li><a href="/home" className="text-blue-500">Home</a></li> */}
                             <li><a href="/contact" className="text-blue-500">Contact</a></li>
                             <li><a href="/about" className="text-blue-500">About</a></li>
                         </ul>
